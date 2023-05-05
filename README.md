@@ -1,2 +1,2 @@
 # Png MD_CLS
- deletes metafa from all png files in a folder.
+ deletes metada from all png files in a folder.
